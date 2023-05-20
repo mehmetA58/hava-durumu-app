@@ -1,0 +1,17 @@
+body{
+  background-image: url(./img/pexels-pixabay-258173.jpg);
+}
+.App {
+  text-align: center;
+  color: #fff;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  background-color: rgb(13, 165, 235);
+}
+
+
+input {
+ text-align: center;
+ font-style: italic;
+ font-size: medium;
+}
